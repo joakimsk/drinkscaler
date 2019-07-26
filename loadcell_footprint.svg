@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="loadcell_footprint.svg"
+   inkscape:export-filename="/Users/joakimsk/Projects/drinkscaler/loadcell_footprint.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="315.00565"
+     inkscape:cy="746.1555"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="775"
+     inkscape:window-x="-2"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="stroke-width:0.63037485"
+       d="M 156.96484 108.81055 C 140.42439 108.81055 127.10742 122.12751 127.10742 138.66797 L 127.10742 207.45898 C 127.10742 223.99944 140.42439 237.31445 156.96484 237.31445 L 225.75586 237.31445 C 242.29631 237.31445 255.61133 223.99944 255.61133 207.45898 L 255.61133 138.66797 C 255.61133 122.12751 242.29631 108.81055 225.75586 108.81055 L 156.96484 108.81055 z M 158.64453 122.10156 L 224.07617 122.10156 C 235.2653 122.10156 244.27344 131.1097 244.27344 142.29883 L 244.27344 188.83398 C 244.27344 200.02312 235.2653 209.03125 224.07617 209.03125 L 158.64453 209.03125 C 147.4554 209.03125 138.44727 200.02312 138.44727 188.83398 L 138.44727 142.29883 C 138.44727 131.1097 147.4554 122.10156 158.64453 122.10156 z "
+       transform="scale(0.26458333)"
+       id="rect3718" />
+    <rect
+       style="fill:#008000;stroke-width:0.33953094"
+       id="rect3745"
+       width="22"
+       height="18"
+       x="39.630745"
+       y="-52.806164"
+       ry="3.827009"
+       transform="scale(1,-1)" />
+    <rect
+       style="fill:#008000;stroke-width:0.10259207"
+       id="rect3745-9"
+       width="7.7313986"
+       height="4.6763391"
+       x="46.765045"
+       y="-55.62492"
+       ry="0"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#00ff00;stroke-width:0.35631946"
+       id="path3762"
+       cx="50.630745"
+       cy="48.555866"
+       r="2" />
+    <g
+       id="g3769-3"
+       transform="translate(90.487565,-36.104243)">
+      <path
+         style="stroke-width:0.63037485"
+         d="m 399.9707,116.80469 c -16.54045,0 -29.85742,13.31697 -29.85742,29.85742 v 68.79101 c 0,16.54046 13.31697,29.85547 29.85742,29.85547 h 68.79102 c 16.54045,0 29.85547,-13.31501 29.85547,-29.85547 v -68.79101 c 0,-16.54045 -13.31502,-29.85742 -29.85547,-29.85742 z m 1.67774,13.29297 h 65.43359 c 11.18913,0 20.19727,9.00618 20.19727,20.19531 v 46.53515 c 0,11.18914 -9.00814,20.19727 -20.19727,20.19727 h -65.43359 c -11.18913,0 -20.19532,-9.00813 -20.19532,-20.19727 v -46.53515 c 0,-11.18913 9.00619,-20.19531 20.19532,-20.19531 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-77.925897,32.0952)"
+         id="rect3718-8"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="93.544327"
+       y="71.157249"
+       id="text3810"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="93.544327"
+         y="71.157249"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Loadcell base spacer 34x34mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="30.77663"
+       y="70.454247"
+       id="text3810-3"><tspan
+         sodipodi:role="line"
+         id="tspan3808-9"
+         x="30.77663"
+         y="70.454247"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Loadcell overview</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="40.626503"
+       y="112.68282"
+       id="text3810-2"><tspan
+         sodipodi:role="line"
+         id="tspan3808-2"
+         x="40.626503"
+         y="112.68282"
+         style="font-size:4.23333311px;stroke-width:0.26458332">Loadcell footprint to cut in base plate 34x34mm</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26238701;stroke-opacity:1"
+       id="rect4706"
+       width="28"
+       height="23"
+       x="69.490074"
+       y="80.496857"
+       ry="5.0781212" />
+  </g>
+</svg>
