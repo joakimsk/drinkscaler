@@ -23,6 +23,7 @@ Loadcell footprint to be cut into a wood/acrylic plate using cnc/dremel/laser.
 1x [Prototype shield](https://www.ebay.com/itm/Prototype-Screw-Shield-Board-Kit-Arduino-UNO-R3-2-54mm-Mini-Terminal-Block-/191399694481?ef_id=CjwKCAjw7O_pBRA3EiwA_lmtfhlYqDaJ3_tEGVa5Q3yl_QX9KyYBRGa-oc95scV17OnwxOxEGQlQdhoCR54QAvD_BwE:G:s) maybe
 
 2x resistors random value for LCD
+
 A bunch of small single strand wires
 
 # References
